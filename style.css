@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Shadows+Into+Light&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Ancizar Serif",serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.jumbotron {
+    padding-top: 0rem;
+    background-color: #c1d0eb;
+}
+.btn {
+   background : linear-gradient(to right, #5170ff,#ff66c4);
+}
+
+.responsive{
+    width: 100%;
+    height: auto;
+}
+#project {
+    background-color: #c1d0eb;
+}
